@@ -136,5 +136,8 @@
   <ItemGroup>
     <None Include="Resources\baseline_keyboard_arrow_left_white_24dp.png" />
   </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\logo.png" />
+  </ItemGroup>
   <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
 </Project>

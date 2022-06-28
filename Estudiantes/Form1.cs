@@ -35,7 +35,7 @@ namespace Estudiantes
             object[] objetos =
             {
                 pcBoxImagen,
-                Properties.Resources.wily1,
+                Properties.Resources.logo,
                 dataGridView1,
                 numericUpDown1
             };
