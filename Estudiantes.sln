@@ -1,0 +1,37 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.32428.217
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Estudiantes", "Estudiantes\Estudiantes.csproj", "{389576F5-EE29-4FCB-ABD8-C64B7F024B87}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Data", "Data\Data.csproj", "{405C5CA7-92B7-4F2C-AFEB-14EC6B0819F7}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Logica", "Logica\Logica.csproj", "{39443289-F6A5-4568-99BA-71E4A45216BD}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{389576F5-EE29-4FCB-ABD8-C64B7F024B87}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{389576F5-EE29-4FCB-ABD8-C64B7F024B87}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{389576F5-EE29-4FCB-ABD8-C64B7F024B87}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{389576F5-EE29-4FCB-ABD8-C64B7F024B87}.Release|Any CPU.Build.0 = Release|Any CPU
+		{405C5CA7-92B7-4F2C-AFEB-14EC6B0819F7}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{405C5CA7-92B7-4F2C-AFEB-14EC6B0819F7}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{405C5CA7-92B7-4F2C-AFEB-14EC6B0819F7}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{405C5CA7-92B7-4F2C-AFEB-14EC6B0819F7}.Release|Any CPU.Build.0 = Release|Any CPU
+		{39443289-F6A5-4568-99BA-71E4A45216BD}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{39443289-F6A5-4568-99BA-71E4A45216BD}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{39443289-F6A5-4568-99BA-71E4A45216BD}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{39443289-F6A5-4568-99BA-71E4A45216BD}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {AB1FD0ED-AB67-4F0E-927B-B59E8E2DD152}
+	EndGlobalSection
+EndGlobal
